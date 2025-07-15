@@ -202,8 +202,8 @@ export default function Index() {
                 className="w-full h-48 object-cover"
               />
               <CardContent className="p-6">
-                <h3 className="font-semibold text-lg mb-2">Умный дом</h3>
-                <p className="text-gray-600 mb-4">Полная автоматизация освещения и электроники в коттедже</p>
+                <h3 className="font-semibold text-lg mb-2">Электромонтаж под ключ</h3>
+                <p className="text-gray-600 mb-4">Полный электромонтаж в частном доме: проводка, розетки, освещение</p>
                 <div className="flex items-center justify-between">
                   <Badge variant="secondary">Завершен</Badge>
                   <span className="text-sm text-gray-500">2 недели</span>
@@ -213,28 +213,28 @@ export default function Index() {
 
             <Card className="overflow-hidden">
               <div className="w-full h-48 bg-gradient-to-br from-blue-100 to-blue-200 flex items-center justify-center">
-                <Icon name="Building" size={64} className="text-blue-600" />
+                <Icon name="Wind" size={64} className="text-blue-600" />
               </div>
               <CardContent className="p-6">
-                <h3 className="font-semibold text-lg mb-2">Офисный центр</h3>
-                <p className="text-gray-600 mb-4">Электромонтаж для бизнес-центра на 500 рабочих мест</p>
+                <h3 className="font-semibold text-lg mb-2">Монтаж кондиционера</h3>
+                <p className="text-gray-600 mb-4">Прокладка кабеля, подключение и настройка сплит-системы</p>
                 <div className="flex items-center justify-between">
                   <Badge variant="secondary">Завершен</Badge>
-                  <span className="text-sm text-gray-500">1 месяц</span>
+                  <span className="text-sm text-gray-500">1 день</span>
                 </div>
               </CardContent>
             </Card>
 
             <Card className="overflow-hidden">
               <div className="w-full h-48 bg-gradient-to-br from-green-100 to-green-200 flex items-center justify-center">
-                <Icon name="Home" size={64} className="text-green-600" />
+                <Icon name="Zap" size={64} className="text-green-600" />
               </div>
               <CardContent className="p-6">
-                <h3 className="font-semibold text-lg mb-2">Загородный дом</h3>
-                <p className="text-gray-600 mb-4">Подключение к сети, установка генератора резерва</p>
+                <h3 className="font-semibold text-lg mb-2">Установка генератора</h3>
+                <p className="text-gray-600 mb-4">Подключение автоматического ввода резерва для загородного дома</p>
                 <div className="flex items-center justify-between">
                   <Badge variant="secondary">Завершен</Badge>
-                  <span className="text-sm text-gray-500">10 дней</span>
+                  <span className="text-sm text-gray-500">3 дня</span>
                 </div>
               </CardContent>
             </Card>
