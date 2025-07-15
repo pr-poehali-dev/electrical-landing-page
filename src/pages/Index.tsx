@@ -16,7 +16,7 @@ export default function Index() {
           <div className="flex justify-between items-center">
             <div className="flex items-center space-x-2">
               <Icon name="Zap" className="text-blue-600" size={32} />
-              <span className="text-2xl font-bold text-gray-900">ЭлектроМастер</span>
+              <span className="text-2xl font-bold text-gray-900">Электрик-Звен</span>
             </div>
             <nav className="hidden md:flex space-x-8">
               <a href="#services" className="text-gray-600 hover:text-blue-600 transition-colors">Услуги</a>
@@ -421,7 +421,7 @@ export default function Index() {
             <div>
               <div className="flex items-center space-x-2 mb-4">
                 <Icon name="Zap" className="text-orange-400" size={24} />
-                <span className="text-xl font-bold">ЭлектроМастер</span>
+                <span className="text-xl font-bold">Электрик-Звен</span>
               </div>
               <p className="text-gray-400">
                 Профессиональные электромонтажные работы с гарантией качества
@@ -460,7 +460,7 @@ export default function Index() {
           </div>
           
           <div className="border-t border-gray-800 mt-12 pt-8 text-center text-gray-400">
-            <p>&copy; 2024 ЭлектроМастер. Все права защищены.</p>
+            <p>&copy; 2024 Электрик-Звен. Все права защищены.</p>
           </div>
         </div>
       </footer>
