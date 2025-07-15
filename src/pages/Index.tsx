@@ -88,9 +88,9 @@ export default function Index() {
               <span className="font-semibold">Аварийный вызов электрика 24/7</span>
             </div>
             <div className="flex items-center space-x-6">
-              <a href="tel:+79123456789" className="flex items-center font-bold text-lg">
+              <a href="tel:+79167547466" className="flex items-center font-bold text-lg">
                 <Icon name="Phone" size={20} className="mr-2" />
-                +7 (912) 345-67-89
+                +7 (916) 754-74-66
               </a>
               <span className="text-sm">Выезд в течение часа</span>
             </div>
@@ -337,7 +337,7 @@ export default function Index() {
                   </div>
                   <div>
                     <div className="font-semibold">Телефон</div>
-                    <div className="text-gray-600">+7 (912) 345-67-89</div>
+                    <div className="text-gray-600">+7 (916) 754-74-66</div>
                   </div>
                 </div>
                 
@@ -347,7 +347,7 @@ export default function Index() {
                   </div>
                   <div>
                     <div className="font-semibold">Email</div>
-                    <div className="text-gray-600">info@elektromaster.ru</div>
+                    <div className="text-gray-600">energetik100@mail.ru</div>
                   </div>
                 </div>
                 
@@ -357,7 +357,7 @@ export default function Index() {
                   </div>
                   <div>
                     <div className="font-semibold">Зона работы</div>
-                    <div className="text-gray-600">Москва и область</div>
+                    <div className="text-gray-600">Звенигород и область</div>
                   </div>
                 </div>
                 
@@ -387,7 +387,7 @@ export default function Index() {
                 
                 <div>
                   <Label htmlFor="phone">Телефон</Label>
-                  <Input id="phone" placeholder="+7 (999) 123-45-67" />
+                  <Input id="phone" placeholder="+7 (916) 754-74-66" />
                 </div>
                 
                 <div>
@@ -441,9 +441,9 @@ export default function Index() {
             <div>
               <h4 className="font-semibold mb-4">Контакты</h4>
               <ul className="space-y-2 text-gray-400">
-                <li>+7 (912) 345-67-89</li>
-                <li>info@elektromaster.ru</li>
-                <li>Москва и область</li>
+                <li>+7 (916) 754-74-66</li>
+                <li>energetik100@mail.ru</li>
+                <li>Звенигород и область</li>
                 <li>Работаем 24/7</li>
               </ul>
             </div>
